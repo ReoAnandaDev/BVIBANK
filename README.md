@@ -1,4 +1,4 @@
-# bvibank
+# BVI BANK
 
 # 🌟 BVI BANK - A Secure and Modern Mobile Banking App  
 ![Flutter](https://img.shields.io/badge/Flutter-v3.24-blue?logo=flutter&logoColor=white)
@@ -33,7 +33,7 @@
 ## 🛠️ Cara Instalasi  
 1. Clone repositori ini:  
    ```bash
-   git clone https://github.com/username/bvi-bank.git
+   git clone https://github.com/ReoAnandaDev/BVIBANK.git
    cd bvi-bank
 
 2. Install Depedencies :  
@@ -43,8 +43,6 @@
 2. Jalankan Aplikasi :  
    ```bash
    flutter run
-
-
 
 ## Getting Started
 
