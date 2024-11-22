@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533831773275",
+    "project_id": "bvi-bank",
+    "storage_bucket": "bvi-bank.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533831773275:android:3074cb0db1a996bb90237e",
+        "android_client_info": {
+          "package_name": "com.bvibank.bvibank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCixfG6-_a3bwuFAD3YCHEkfMn-y80bOpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

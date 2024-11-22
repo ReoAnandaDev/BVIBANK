@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"bvi-bank","appId":"1:533831773275:android:3074cb0db1a996bb90237e","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bvi-bank","configurations":{"android":"1:533831773275:android:3074cb0db1a996bb90237e","ios":"1:533831773275:ios:adb00f2b814de74290237e"}}}}}}
