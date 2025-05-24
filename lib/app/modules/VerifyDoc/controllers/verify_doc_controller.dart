@@ -161,7 +161,6 @@ class VerifyDocController extends GetxController {
         (employmentStatusScore * weights['employmentStatus']!);
   }
 
-  // ```dart
   // Function to calculate salary score based on selected range
   double calculateSalaryScore(String salaryRange) {
     if (salaryRange == '1.000.000 - 2.000.000')

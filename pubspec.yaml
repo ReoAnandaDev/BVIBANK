@@ -6,27 +6,27 @@ environment:
   sdk: ">=3.4.0 <4.0.0"
 
 dependencies:
-  cupertino_icons: ^1.0.6
   blur: any
+  camera: ^0.11.0+2
   cloud_firestore: ^5.0.2
-  permission_handler: ^11.3.1
-  local_auth: ^2.3.0
-  google_fonts: ^6.2.1
-  firebase_auth: ^5.1.1
-  path_provider: any
-  image_picker: ^1.1.2
   crypto: ^3.0.6
-  get: 4.6.6
+  cupertino_icons: ^1.0.6
+  firebase_auth: ^5.1.1
+  firebase_core: ^3.4.0
   flutter:
     sdk: flutter
-  firebase_core: ^3.4.0
-  inapp_flutter_kyc: ^1.1.9
-  image: ^4.3.0
-  u_credit_card: ^1.4.0
-  shared_preferences: ^2.3.3
-  google_ml_kit: ^0.18.1
-  camera: ^0.11.0+2
   font_awesome_flutter: ^10.8.0
+  get: 4.6.6
+  google_fonts: ^6.2.1
+  google_ml_kit: ^0.18.1
+  image: ^4.3.0
+  image_picker: ^1.1.2
+  inapp_flutter_kyc: ^1.1.9
+  local_auth: ^2.3.0
+  path_provider: any
+  permission_handler: ^11.3.1
+  shared_preferences: ^2.3.3
+  u_credit_card: ^1.4.0
 
 dev_dependencies:
   flutter_lints: ^3.0.0

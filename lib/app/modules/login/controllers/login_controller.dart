@@ -1,7 +1,6 @@
 import 'package:bvibank/app/modules/Navigation/views/navigation_view.dart';
 import 'package:bvibank/app/modules/VerifyKTP/views/verify_k_t_p_view.dart';
 import 'package:bvibank/app/modules/VerifyFace/views/verify_face_view.dart'; // Pastikan Anda mengimpor halaman verifikasi wajah
-import 'package:bvibank/app/modules/home/views/home_view.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
